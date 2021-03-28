@@ -1,0 +1,39 @@
+<AssetPackage Name="daghb-enkb" Version="0.1.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title>ENKB Kristiansund/Kvernberget</Title>
+		<Manufacturer>daghb</Manufacturer>
+		<Creator>daghb</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\daghb-enkb\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\daghb-enkb\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="daghb-enkb">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\data\</AssetDir>
+			<OutputDir>scenery\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="enkb-materials">
+			<Type>MaterialLib</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\materials</AssetDir>
+			<OutputDir>MaterialLibs\enkb-materials\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+

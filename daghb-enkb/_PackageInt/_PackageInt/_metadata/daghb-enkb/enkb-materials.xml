@@ -1,0 +1,27 @@
+<Metadata Version="1">
+	<Entry Path="textures\gate-asphalt-painted-numbers-2.png">
+		<![CDATA[0101]]>
+	</Entry>
+	<Entry Path="textures\rwy-ahead.png">
+		<![CDATA[0101]]>
+	</Entry>
+	<Entry Path="textures\gate-asphalt-painted-numbers-4.png">
+		<![CDATA[0101]]>
+	</Entry>
+	<Entry Path="textures\daghb-pedestrian-crossing.png">
+		<![CDATA[0101]]>
+	</Entry>
+	<Entry Path="textures\gate-asphalt-painted-numbers-3.png">
+		<![CDATA[0101]]>
+	</Entry>
+	<Entry Path="textures\enkb-helipad-circle.png">
+		<![CDATA[0101]]>
+	</Entry>
+	<Entry Path="textures\gate-asphalt-painted-numbers-1.png">
+		<![CDATA[0101]]>
+	</Entry>
+	<NamedEntry Name="_CommandVersions">
+		<![CDATA[0800000019C75C5249E78925010000001B22E0C21EAC403C010000005361DA77DA1A92AB02000000577FC008171827E4010000007532F984C660622E01000000A9426317307B0EAC01000000AF3D0EB98E247C2001000000BADA965DA35EFC74010000006C00000000000000]]>
+	</NamedEntry>
+</Metadata>
+

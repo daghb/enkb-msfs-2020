@@ -1,0 +1,8 @@
+<Project Version="2" Name="daghb-enkb" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\daghb-enkb.xml</Package>
+	</Packages>
+</Project>
+
