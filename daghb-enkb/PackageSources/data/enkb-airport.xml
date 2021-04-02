@@ -52,6 +52,14 @@
 	<SceneryObject lat="63.11454737420457" lon="7.83165062872100" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{B1470ECE-2F49-4D0C-9B01-DB49DB258C2C}" scale="1.000000"/>
 	</SceneryObject>
+	<!--SceneryObject name: Gen_Airport_Tower01-->
+	<SceneryObject lat="63.11026202784078" lon="7.82511657228210" alt="0.00000000000000" pitch="0.002247" bank="-0.002220" heading="73.867813" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{634B83BB-96A9-453D-8452-938F9804DE4F}" scale="1.369900"/>
+	</SceneryObject>
+	<!--SceneryObject name: Gibraltar_Building06-->
+	<SceneryObject lat="63.11033646721305" lon="7.82544985334908" alt="0.00000000000000" pitch="0.001325" bank="-0.001332" heading="162.862528" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{3D9C6621-DAB1-4260-A5B9-5A8F2F2DFBCA}" scale="1.000000"/>
+	</SceneryObject>
 	<SceneryObject lat="63.11336019675213" lon="7.82417175373403" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<SimObject containerTitle="ASO_BaggageTruck01" scale="1.000000"/>
 	</SceneryObject>
